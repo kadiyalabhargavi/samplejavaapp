@@ -53,3 +53,8 @@ pipeline {
         }
     }
 }
+
+
+
+
+## hi welcome to jenkins it is an dummy tool we need to integrate jenkins with java jenkins with mavena nd jenkins with git to get sample.war file.
